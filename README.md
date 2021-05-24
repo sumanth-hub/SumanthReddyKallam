@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying B.Tech 3rd year in  Mechanical Engineering.
 - 🌱 I’m currently learning C, Data Structures, Python, Operating Systems.
 - 👯 I’m looking to collaborate on C or Python Projects.
