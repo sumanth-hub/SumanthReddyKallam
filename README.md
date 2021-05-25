@@ -1,12 +1,84 @@
+<!--
 ### Hi there 👋
+**AnilKumarTeegala/AnilKumarTeegala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
-- 🔭 I’m currently studying B.Tech 3rd year in  Mechanical Engineering.
-- 🌱 I’m currently learning C, Data Structures, Python, Operating Systems.
-- 👯 I’m looking to collaborate on C or Python Projects.
-- 🤔 I’m looking for help with learning WEB-DEVELOPMENT.
-- 💬 Ask me about anything, I am Happy to help
-- 📫 How to reach me: sumanthreddy9143@gmail.com
-- 😄 Pronouns: Quick learner | Self motivated | Inquisitive
-- ⚡ Fun fact: The letters in the distress call SOS don't actually stand for anything.
+### <img src="https://media1.tenor.com/images/9be16ee212250abbaf952e29f14fcb5e/tenor.gif?itemid=9499717" width="40px"/>Hello world!&nbsp;<img src="https://media.giphy.com/media/101qnIE0eyZIfS/giphy.gif" width="25px">
+
+
+### I'm Sumanth Reddy Kallam! 
+
+
+<a href="https://twitter.com/sumanth2207">
+  <img align="left" alt="Sumanth Reddy Kallam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sumanthreddykallam/">
+  <img align="left" alt="Sumanth Reddy's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Sumanthreddykallam">
+  <img align="left" alt="Sumanth Reddy's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<!--
+<a href="https://www.codecademy.com/users/AnilKumarTeegala/achievements">
+  <img align="left" alt="Anil Kumar's Learnings from Codecademy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codecademy.svg" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/59a018fb-7590-45ae-b100-77ae2e6b10a7">
+  <img align="left" alt="Anil Kumar's Qwiklab Badges" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/qwiklabs.svg" />
+</a>
+<a href="https://www.hackerearth.com/@teegala_anil_kumar/">
+  <img align="left" alt="Anil Kumar's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
+</a>
+<a href="https://leetcode.com/AnilKumarTeegala/">
+  <img align="left" alt="Anil Kumar's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/anilkumar_t">
+  <img align="left" alt="Anil Kumar's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
+<br />
+<br />
+
+I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), & [@chegg](https://www.chegg.com/). Beside's programming, I enjoy cooking and traveling.
+
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
+ --> 
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently studying B.Tech 3rd year in Mechanical Engineering
+- 🌱 I’m currently learning Data Structures, Python and Operating Systems.
+- 👯 I’m looking to collaborate on Python Projects.
+- 🤔 I’m looking for help with learning WEB Development
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: The distance from my 🏡 to 🌞 is equal to the distance from 🌞 to my 🏡 🤪.
+- 📫 How to reach me @: sumanthreddy9143@gmail.com;
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<!--
+![Anil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=AnilKumarTeegala&show_icons=true&hide_border=true)
+![Anil Kumar Teegala](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilKumarTeegala&amp;show_icons=true&amp)
+-->
+
+<div>
+      <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=SumanthReddyKallam&show_icons=true&theme=prussian height=202, width=60% />
+    <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthReddyKallam&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript height=202 width=30% />
+</div>
 
