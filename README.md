@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://t.me/Sumanthreddykallam">
   <img align="left" alt="Sumanth Reddy's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />  
-</a>  
-
-
+</a>&nbsp;
+<br />
+  
+  
 <!--
 <a href="https://www.codecademy.com/users/AnilKumarTeegala/achievements">
   <img align="left" alt="Anil Kumar's Learnings from Codecademy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codecademy.svg" />
@@ -55,13 +56,10 @@ Here are some ideas to get you started:
 I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), & [@chegg](https://www.chegg.com/). Beside's programming, I enjoy cooking and traveling.
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
- --> 
-   
-   
- 
- 
-  
-  **Talking about Personal Stuffs:**
+ -->
+<br />
+
+ **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying B.Tech 3rd year in Mechanical Engineering
 - 🌱 I’m currently learning Data Structures, Python and Operating Systems.
