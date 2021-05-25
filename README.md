@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <br />
 
 I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), & [@chegg](https://www.chegg.com/). Beside's programming, I enjoy cooking and traveling.
-
+-->
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
- -->
+ 
 <br />
 
  **Talking about Personal Stuffs:**
