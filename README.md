@@ -1,6 +1,6 @@
 <!--
 ### Hi there 👋
-**AnilKumarTeegala/AnilKumarTeegala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SumanthReddyKallam/SumanthReddyKallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,6 +54,8 @@ I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Ski
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
  --> 
+ 
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying B.Tech 3rd year in Mechanical Engineering
