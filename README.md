@@ -30,29 +30,20 @@ Here are some ideas to get you started:
 <a href="https://t.me/Sumanthreddykallam">
   <img align="left" alt="Sumanth Reddy's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />  
 </a>&nbsp;
-<br />
   
   
-<!--
-<a href="https://www.codecademy.com/users/AnilKumarTeegala/achievements">
-  <img align="left" alt="Anil Kumar's Learnings from Codecademy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codecademy.svg" />
+<a href="https://www.hackerearth.com/@sumanthreddyk/">
+  <img align="left" alt="Sumanth Reddy's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
 </a>
-<a href="https://www.qwiklabs.com/public_profiles/59a018fb-7590-45ae-b100-77ae2e6b10a7">
-  <img align="left" alt="Anil Kumar's Qwiklab Badges" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/qwiklabs.svg" />
+<a href="https://leetcode.com/sumanthreddyk/">
+  <img align="left" alt="Sumanth Reddy's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.hackerearth.com/@teegala_anil_kumar/">
-  <img align="left" alt="Anil Kumar's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" />
-</a>
-<a href="https://leetcode.com/AnilKumarTeegala/">
-  <img align="left" alt="Anil Kumar's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/anilkumar_t">
-  <img align="left" alt="Anil Kumar's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.codechef.com/users/sumanthreddyk">
+  <img align="left" alt="Sumanth Reddy's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>  
 
 <br />
-<br />
-
+<!--
 I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), & [@chegg](https://www.chegg.com/). Beside's programming, I enjoy cooking and traveling.
 -->
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
