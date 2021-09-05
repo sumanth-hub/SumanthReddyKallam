@@ -52,10 +52,10 @@ I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Ski
 
  **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying B.Tech 3rd year in Mechanical Engineering
-- 🌱 I’m currently learning Data Structures, Python and Operating Systems.
-- 👯 I’m looking to collaborate on Python Projects.
-- 🤔 I’m looking for help with learning WEB Development
+- 👨🏽‍💻 I’m currently studying B.Tech 4th year in Mechanical Engineering
+- 🌱 I’m currently learning Data Structures,Java.
+- 👯 I’m looking to collaborate on Java Projects.
+- 🤔 I’m looking for help with learning Data Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: The distance from my 🏡 to 🌞 is equal to the distance from 🌞 to my 🏡 🤪.
 - 📫 How to reach me @: sumanthreddy9143@gmail.com;
