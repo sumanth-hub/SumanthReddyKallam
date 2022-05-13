@@ -58,7 +58,7 @@ I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Ski
 - 🤔 I’m looking for help with learning Data Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: The distance from my 🏡 to 🌞 is equal to the distance from 🌞 to my 🏡 🤪.
-- 📫 How to reach me @: sumanthreddy9143@gmail.com;
+- 📫 How to reach me @: https://www.linkedin.com/in/kallam-sumanth-reddy-345370202/;
 
 <!--
 **Languages and Tools:**  
